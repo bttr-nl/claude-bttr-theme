@@ -1,12 +1,13 @@
 {
   "name": "bttr-context",
   "displayName": "BTTR Theme",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Theme mod for the Claude desktop app in the BTTR house style: cream and dark-red colours, sky-blue links, and a backdrop rail with the BTTR logo that shows how full the context window is.",
   "author": {
     "name": "BTTR"
   },
   "homepage": "https://github.com/bttr-nl/claude-bttr-theme",
+  "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "theme",
     "mod",
