@@ -1,0 +1,13 @@
+{
+  "name": "bttr",
+  "owner": {
+    "name": "BTTR"
+  },
+  "description": "BTTR theme mod for Claude Code",
+  "plugins": [
+    {
+      "name": "bttr-context",
+      "source": "./"
+    }
+  ]
+}
